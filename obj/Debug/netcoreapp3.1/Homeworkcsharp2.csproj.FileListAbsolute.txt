@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Homeworkcsharp2\bin\Debug\netcoreapp3.1\Homeworkcsharp2.exe
+C:\Users\HP\Desktop\Homeworkcsharp2\bin\Debug\netcoreapp3.1\Homeworkcsharp2.deps.json
+C:\Users\HP\Desktop\Homeworkcsharp2\bin\Debug\netcoreapp3.1\Homeworkcsharp2.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworkcsharp2\bin\Debug\netcoreapp3.1\Homeworkcsharp2.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homeworkcsharp2\bin\Debug\netcoreapp3.1\Homeworkcsharp2.dll
+C:\Users\HP\Desktop\Homeworkcsharp2\bin\Debug\netcoreapp3.1\Homeworkcsharp2.pdb
+C:\Users\HP\Desktop\Homeworkcsharp2\obj\Debug\netcoreapp3.1\Homeworkcsharp2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homeworkcsharp2\obj\Debug\netcoreapp3.1\Homeworkcsharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworkcsharp2\obj\Debug\netcoreapp3.1\Homeworkcsharp2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworkcsharp2\obj\Debug\netcoreapp3.1\Homeworkcsharp2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworkcsharp2\obj\Debug\netcoreapp3.1\Homeworkcsharp2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworkcsharp2\obj\Debug\netcoreapp3.1\Homeworkcsharp2.dll
+C:\Users\HP\Desktop\Homeworkcsharp2\obj\Debug\netcoreapp3.1\Homeworkcsharp2.pdb
+C:\Users\HP\Desktop\Homeworkcsharp2\obj\Debug\netcoreapp3.1\Homeworkcsharp2.genruntimeconfig.cache
